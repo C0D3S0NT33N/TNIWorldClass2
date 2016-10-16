@@ -1,7 +1,6 @@
 # TNIWorldClass2
 
 Organization: Thai-Nichi Institute of Technology<br />
-File: mainland.css
 <hr>
 <p>
 Author/Developer: 
