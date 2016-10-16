@@ -43,7 +43,7 @@ function screenConstruct(){
     popupBottomPosition  = (screenWidth <= mobileScreenMaxWidth) ? '12%' : '32%';
 }
 
-function setPopupButtomPosition(mobile, desktop){
+function setPopupBottomPosition(mobile, desktop){
     return (screenWidth <= mobileScreenMaxWidth) ? mobile : desktop;
 }
 
@@ -513,7 +513,7 @@ function wtfIsThis(shit){
 function showFAQ(problem){
     if(problem){
         $('#island-faq').css('bottom', '-40%').attr('onclick', 'showFAQ(false)');
-        $('#popup-faq').css('visibility', 'visible').css('bottom', setPopupButtomPosition('13%','20%')).css('opacity', '1');
+        $('#popup-faq').css('visibility', 'visible').css('bottom', setPopupBottomPosition('13%','20%')).css('opacity', '1');
     }
     else{
         $('#island-faq').css('bottom', '').attr('onclick', 'showFAQ(true)');
@@ -528,7 +528,7 @@ function showFAQ(problem){
 function showSchedule(wantToLook){
     if(wantToLook){
         $('#island-schedule').css('bottom', '-40%').attr('onclick', 'showSchedule(false)');
-        $('#popup-schedule').css('visibility', 'visible').css('bottom', setPopupButtomPosition('25%','32%')).css('opacity', '1');
+        $('#popup-schedule').css('visibility', 'visible').css('bottom', setPopupBottomPosition('25%','32%')).css('opacity', '1');
     }
     else{
         $('#island-schedule').css('bottom', '').attr('onclick', 'showSchedule(true)');
@@ -539,7 +539,7 @@ function showSchedule(wantToLook){
 function showContact(getInTouch){
     if(getInTouch){
         $('#island-contact').css('bottom', '-40%').attr('onclick', 'showContact(false)');
-        $('#popup-contact').css('visibility', 'visible').css('bottom', setPopupButtomPosition('25%','32%')).css('opacity', '1');
+        $('#popup-contact').css('visibility', 'visible').css('bottom', setPopupBottomPosition('25%','32%')).css('opacity', '1');
     }
     else{
         $('#island-contact').css('bottom', '').attr('onclick', 'showContact(true)');
