@@ -48,3 +48,6 @@ TangentRoute<br />
 If you are interested to work with our team please contact<br />
 E-Mail: ve.natthasak_st@tni.ac.th (Natthasak)<br />
 Website: tangentroute.com<br />
+<hr>
+Quality Hosting Sponsored by DotEnterprise Co., Ltd.<br>
+https://de.co.th
