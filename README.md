@@ -23,7 +23,9 @@ Graphic Art:<br />
 <li>Yasumin Tamrareang</li>
 <li>Amita Chalearmsuk</li>
 </p>
-<p>Front-End Programmer: Natthasak Vechprasit</p>
+<p>Front-End Programmer:
+<ul><li>Natthasak Vechprasit</li></ul>
+</p>
 <p>
 Back-End Programmer:  
 <ul>
