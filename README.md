@@ -1,8 +1,8 @@
 # TNIWorldClass2
 
 Organization: Thai-Nichi Institute of Technology<br />
-File: mainland.css<br />
-<br />
+File: mainland.css
+<hr>
 <p>
 Author/Developer: 
 <ul><li>Natthasak Vechprasit</li></ul>
@@ -40,9 +40,11 @@ Back-End Programmer:
 Co-Ordinator:
 <ul><li>Kasidit Pathomkul</li></ul>
 </p>
+<hr>
 <p>
 Thank you to all testers who gave time to test the website
 </p>
+<hr>
 TangentRoute<br />
 For work with our team please contact<br />
 E-Mail: ve.natthasak_st@tni.ac.th (Natthasak)<br />
