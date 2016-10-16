@@ -1,4 +1,4 @@
-# TNIWorldClass2
+# TNI World Class #2
 
 Organization: Thai-Nichi Institute of Technology<br />
 <hr>
