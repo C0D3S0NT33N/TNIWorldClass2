@@ -6,7 +6,8 @@ File: mainland.css<br />
 <p>
 Author/Developer: 
 <ul><li>Natthasak Vechprasit</li></ul>
-</p><br>
+</p>
+<hr>
 <p>
 Design Engineer:
 <ul><li>Natthasak Vechprasit</li></ul>
