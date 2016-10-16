@@ -17,13 +17,15 @@ Graphic Art:<br />
 <li>Yasumin Tamrareang</li>
 <li>Amita Chalearmsuk</li>
 </p>
-Front-End Programmer: Natthasak Vechprasit<br />
-Back-End Programmer:  
+<p>Front-End Programmer: Natthasak Vechprasit</p>
+<p>Back-End Programmer:  
 - Natthasak Vechprasit (System)<br />
 - Nat Phattano (Application)<br />
 Co-Ordinator: Kasidit Pathomkul<br />
-Thank you to all testers who gave time to test the website<br />
-<br />
+</p>
+<p>
+Thank you to all testers who gave time to test the website
+</p>
 TangentRoute<br />
 For work with our team please contact<br />
 E-Mail: ve.natthasak_st@tni.ac.th (Natthasak)<br />
