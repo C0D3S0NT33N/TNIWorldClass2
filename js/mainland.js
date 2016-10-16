@@ -86,23 +86,30 @@ $(document).ready(function(){
             activateImage = parseInt($(this).attr('id').substring(14));
             $(this).css('opacity', '1');
             currentImages = $(this);
+            changeLargeImage(imageSrc);
         }
     });
 
     $('#gallery-next').click(function(){
         imageSrc = $('#gallery-image-'+(activateImage = (++activateImage == 28)? 1 : activateImage)).attr('src');
-        $('#gallery-image-large').fadeOut(200, function(){
-            $('#gallery-image-large').attr('src', imageSrc);
-        }).fadeIn(200);
+        $('#gallery-image-'+(activateImage-1)).css('opacity', '');
+        $('#gallery-image-'+activateImage).css('opacity', '1');
+        changeLargeImage(imageSrc);
     });
 
     $('#gallery-previous').click(function(){
         imageSrc = $('#gallery-image-'+(activateImage = (--activateImage == 0)? 27 : activateImage)).attr('src');
-        $('#gallery-image-large').fadeOut(200, function(){
-            $('#gallery-image-large').attr('src', imageSrc);
-        }).fadeIn(200);
+        $('#gallery-image-'+(activateImage+1)).css('opacity', '');
+        $('#gallery-image-'+activateImage).css('opacity', '1');
+        changeLargeImage(imageSrc);
     });
 });
+
+function changeLargeImage(imageSrc){
+    $('#gallery-image-large').fadeOut(200, function(){
+        $('#gallery-image-large').attr('src', imageSrc);
+    }).fadeIn(200);
+}
 
 $(window).resize(function(){
     /**
