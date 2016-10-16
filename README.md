@@ -5,15 +5,16 @@ File: mainland.css<br />
 <br />
 Author/Developer: Natthasak Vechprasit<br />
 Design Engineer: Natthasak Vechprasit<br />
-<br />
+<p>
 Art Director: 
 - Yasumin Tamrareang<br />
 - Thanawat Wanwarothorn<br />
-<br />
+</p>
+<p>
 Graphic Art:  
 - Yasumin Tamrareang<br />
 - Amita Chalearmsuk<br />
-<br />
+</p>
 Front-End Programmer: Natthasak Vechprasit<br />
 Back-End Programmer:  
 - Natthasak Vechprasit (System)<br />
