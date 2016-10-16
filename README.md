@@ -6,8 +6,8 @@ File: mainland.css<br />
 Author/Developer: Natthasak Vechprasit<br />
 Design Engineer: Natthasak Vechprasit<br />
 <p>
-Art Director:<br />
-<ul>
+<br />
+<ul>Art Director:
 <li>Yasumin Tamrareang</li>
 <li>Thanawat Wanwarothorn</li>
 </ul>
