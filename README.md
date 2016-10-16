@@ -7,11 +7,11 @@ File: mainland.css<br />
 Author/Developer: 
 <ul><li>Natthasak Vechprasit</li></ul>
 </p>
-<hr>
 <p>
 Design Engineer:
 <ul><li>Natthasak Vechprasit</li></ul>
 </p>
+<hr>
 <p>
 Art Director:<br />
 <ul>
@@ -24,6 +24,7 @@ Graphic Art:<br />
 <li>Yasumin Tamrareang</li>
 <li>Amita Chalearmsuk</li>
 </p>
+<hr>
 <p>Front-End Programmer:
 <ul><li>Natthasak Vechprasit</li></ul>
 </p>
@@ -34,6 +35,7 @@ Back-End Programmer:
 <li>Nat Phattano (Application)</li>
 </ul>
 </p>
+<hr>
 <p>
 Co-Ordinator:
 <ul><li>Kasidit Pathomkul</li></ul>
