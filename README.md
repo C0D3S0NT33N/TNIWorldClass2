@@ -46,6 +46,6 @@ Thank you to all testers who gave time to test the website
 </p>
 <hr>
 TangentRoute<br />
-For work with our team please contact<br />
+If you are interest to work with our team please contact<br />
 E-Mail: ve.natthasak_st@tni.ac.th (Natthasak)<br />
 Website: tangentroute.com<br />
