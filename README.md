@@ -6,11 +6,11 @@ Organization: Thai-Nichi Institute of Technology<br />
 Author/Developer: 
 <ul><li>Natthasak Vechprasit</li></ul>
 </p>
+<hr>
 <p>
 Design Engineer:
 <ul><li>Natthasak Vechprasit</li></ul>
 </p>
-<hr>
 <p>
 Art Director:<br />
 <ul>
