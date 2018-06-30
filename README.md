@@ -44,10 +44,12 @@ Co-Ordinator:
 Thank you to all testers who gave time to test the website
 </p>
 <hr>
-TangentRoute<br />
+{code}sonteen<br />
 If you are interested to work with our team please contact<br />
-E-Mail: ve.natthasak_st@tni.ac.th (Natthasak)<br />
-Website: tangentroute.com<br />
+E-Mail: codesonteen@gmail.com (Natthasak)<br />
+Website: codesonteen.com<br />
 <hr>
+Cloud & System Maintenance Sponsored by ChillingCloud.<br>
+https://chilling.cloud
 Quality Hosting Sponsored by DotEnterprise Co., Ltd.<br>
 https://de.co.th
